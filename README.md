@@ -1,15 +1,16 @@
-#Project Description
+# Project Description
 Leave Management System and Lecture Arranagement
-###Student
+
+### Student
 Students can apply for Half/Full Leave
 
-###Faculty
+### Faculty
 Faculty can apply for Leave and Arranage their lectures with the help of system
 
 
-#Modules(Users)
+# Modules(Users)
 
-##There are total 6 Users
+## There are total 6 Users
 - Admin
 - Student
 - Faculty
